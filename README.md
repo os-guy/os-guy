@@ -1,5 +1,5 @@
-## Hi
-
+![what are you lookin' at](res/banner.png)
+# Hi
 I'm that **OpenSource Guy** who loves **OpenSource** stuff.
 
 I'm a Turkish guy and trying to improve my coding knowledge.
