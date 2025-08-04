@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi
 
-<!--
-**os-guy/os-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm that **OpenSource Guy** who loves **OpenSource** stuff.
 
-Here are some ideas to get you started:
+I'm a Turkish guy and trying to improve my coding knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on my Hyprland Dotfile, [Serial Design V](https://github.com/os-guy/Serial-Design-V).
+Yes, the name can sound familiar.
+I was a fan of the **MURDER DRONES** animation series, and loved V so much.
+My friend [KhazarOS Linux](https://github.com/khazar-os-linux) told me that, naming the project as Serial Design V would be better for me and as you might already noticed, V is not used as a letter in the name, it's used as the Roman Numeral of 5 cuz I had **4** trial versions before that project.
+
+And you might say, "yo, why did u put some unnecessary text to ur profile?".
+Cuz **I love putting texts** here and there.
