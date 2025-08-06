@@ -11,3 +11,8 @@ My friend [KhazarOS Linux](https://github.com/khazar-os-linux) told me that, nam
 
 And you might say, "yo, why did u put some unnecessary text to ur profile?".
 Cuz **I love putting texts** here and there.
+
+Also, I'm more of an AI tester.
+I want to see what AI can do when it comes to computer science and coding. So, you don't have to.
+I have a repository available rn. It's a Free Music client developed only using Claude 4 in Kiro.
+I'll share the source codes and kiro specs later.
